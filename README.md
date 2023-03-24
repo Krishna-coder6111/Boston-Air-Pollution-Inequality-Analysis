@@ -1,7 +1,5 @@
 # Boston Air Pollution Inequality Analysis
 
-# Boston Air Pollution Inequality Analysis
-
 This repository contains an analysis of air pollution inequality in Boston, focusing on the impact of deforestation and the creation of heat islands in various neighborhoods.
 
 ## Introduction
@@ -16,6 +14,13 @@ Air pollution inequality has become a significant concern in urban areas such as
 - Lower-income neighborhoods in Boston experience "heat islands" with temperatures up to 7 degrees higher than the city's average due to a lack of green space and an abundance of concrete, steel, and buildings.
 
 To learn more, please refer to the pdf file.
+
+## Repository Structure
+
+- `data/`: This folder contains the dataset(s) used in the analysis.
+- `code/`: This folder contains Jupyter notebooks or other files with the code and visualizations for the analysis.
+- `report/`: This folder contains the final report, including the introduction, methodology, results, and conclusion of the analysis.
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
