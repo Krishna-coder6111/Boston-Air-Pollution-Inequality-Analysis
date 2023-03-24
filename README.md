@@ -25,7 +25,7 @@ To learn more, please refer to the pdf file.
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies (e.g., Python, pandas, matplotlib).
-3. Navigate to the `notebooks/` folder and open the main notebook.
+3. Navigate to the `code/` folder and open the final_project(1).rmd.
 4. Run the notebook to reproduce the analysis and visualizations.
 
 ## Contributing
