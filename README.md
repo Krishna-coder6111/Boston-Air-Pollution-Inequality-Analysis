@@ -35,3 +35,6 @@ If you'd like to contribute to this project, please feel free to submit a pull r
 ## Acknowledgements
 
 Special thanks to Professor Margaret Atkinson and Professor William McNicholas for their guidance on this project.
+
+## License
+This project is licensed under the MIT License.
